@@ -7,6 +7,7 @@ namespace Teste_Git
         static void Main(string[] args)
         {
             Console.WriteLine("Você Fuma Ganja?");
+            Console.WriteLine("FUMAMOS TODOS");
 
             Console.ReadLine();
         }
